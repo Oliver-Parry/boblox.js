@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#prerequisites">Requirements</a> •
+  <a href="#requirements">Requirements</a> •
   <a href="#installation">Installation</a> •
   <a href="#documentation">Docs</a> •
   <a href="">Examples</a> •
